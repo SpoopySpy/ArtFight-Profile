@@ -1,60 +1,57 @@
 /* The navbar (background) */
 .artfight-nav {
-    background-image: url(https://raw.githubusercontent.com/SpoopySpy/ArtFight-Profile/refs/heads/main/Images/Navbar-bg.png);
-    height: 80px;
+  background-image: url(https://raw.githubusercontent.com/SpoopySpy/ArtFight-Profile/refs/heads/main/Images/new-Navbar-bg.png) !important;
+  height: 80px;
 }
 
 /* Dropdown links (color with !important, opacity) */
 .artfight-nav .nav-link {
-    background-color: black;
+  background-image: url(https://raw.githubusercontent.com/SpoopySpy/ArtFight-Profile/refs/heads/main/Images/button-bg.png);
+  background-size: 100% 100%;
 }
 
 /* Dropdown links HOVER (color with !important) */
 .artfight-nav .nav-link:hover {
-    color: black;
+  color: black;
 }
 
 /* Dropdown links ACTIVE (color with !important) */
 .artfight-nav .nav-link:active {
-    color: black;
+  color: black;
 }
 
 /* ART FIGHT brand name text (color with !important) */
 .navbar-brand {
-    background-color: black;
+  background-color: black;
 }
 
 /* User's name (color with !important) */
 .username-navbar span {
-    color: black;
+  color: black;
 }
 
 /* Site logo */
 .navbar-brand img {
-    
 }
 
 /* Pictoral icons */
-.nav-link .fas, .nav-link .fab {
-    
+.nav-link .fas,
+.nav-link .fab {
 }
 
 /* User's profile picture */
 .avatar-dropdown .navbar-icon {
-    
 }
 
 /* Dropdown link wrapper + margin */
 .artfight-nav .nav-item {
-    
 }
 
 /* Banner (background) */
 .banner {
-    background-image: url(https://raw.githubusercontent.com/SpoopySpy/ArtFight-Profile/refs/heads/main/Images/Banner.png) !important;
+  background-image: url(https://raw.githubusercontent.com/SpoopySpy/ArtFight-Profile/refs/heads/main/Images/Banner.png) !important;
 }
 
 /* Container around the banner with the bottom margin */
 .banner-container {
-    
 }
