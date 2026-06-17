@@ -8,21 +8,34 @@
 .artfight-nav .nav-link {
   background-image: url(https://raw.githubusercontent.com/SpoopySpy/ArtFight-Profile/refs/heads/main/Images/button-bg.png);
   background-size: 100% 100%;
+  color: dimgrey !important;
 }
 
 /* Dropdown links HOVER (color with !important) */
 .artfight-nav .nav-link:hover {
-  color: black;
+  background-image: url(https://raw.githubusercontent.com/SpoopySpy/ArtFight-Profile/refs/heads/main/Images/button-bg.png);
+  width: 110%;
+  height: 110%;
+  background-size: 100% 100%;
+  color: dimgrey !important;
 }
 
 /* Dropdown links ACTIVE (color with !important) */
 .artfight-nav .nav-link:active {
-  color: black;
+  background-image: url(https://raw.githubusercontent.com/SpoopySpy/ArtFight-Profile/refs/heads/main/Images/button-bg.png);
+  width: 90%;
+  height: 90%;
+  background-size: 100% 100%;
+  color: black !important;
 }
 
 /* ART FIGHT brand name text (color with !important) */
 .navbar-brand {
-  background-color: black;
+  background-image: url(https://raw.githubusercontent.com/SpoopySpy/ArtFight-Profile/refs/heads/main/Images/button-bg.png);
+  height: 50px;
+  width: 179px;
+  background-size: 100% 100%;
+  color: dimgrey !important;
 }
 
 /* User's name (color with !important) */
